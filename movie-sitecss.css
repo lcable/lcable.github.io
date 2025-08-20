@@ -1,0 +1,28 @@
+*{
+    font-family: 'Courier New';
+}
+
+h1{
+    font-size: 48px;
+    text-align: center;
+}
+
+heading{
+    text-align: center;
+    padding: 0px 0px 20px 0px;
+}
+
+main{
+    text-align: center;
+    padding: 20px;
+}
+
+#letterboxd{
+    margin: 20px;
+}
+
+footer{
+    text-align: center;
+    font-size: 12px;
+    padding: 310px 0px 0px 0px;
+}
